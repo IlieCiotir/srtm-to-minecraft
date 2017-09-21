@@ -1,0 +1,20 @@
+{
+  "name": "minecraft-real-world-map",
+  "version": "1.0.0",
+  "description": "an attempt to render the real world in minecraft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.28",
+    "nodemon": "^1.12.1",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.2"
+  },
+  "dependencies": {
+    "jsonfile": "^4.0.0"
+  }
+}
